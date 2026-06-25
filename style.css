@@ -20,7 +20,6 @@ body{
 }
 .card h2{
     color: #002765;
-    display: flex;
     align-items: center;
     margin-bottom: 30px;
 }
