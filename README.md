@@ -10,7 +10,7 @@ A clean, responsive weather web application that provides real-time weather info
 
 | Home Screen | Search Result |
 |-------------|---------------|
-| ![Home]() | ![Result](screenshots/result.png) |
+| ![Home](home.png) | ![Result](result.png) |
 
 ---
 
@@ -105,18 +105,16 @@ weather-app/
 ## 🔮 Future Improvements
 
 - [ ] 5-day weather forecast view
-- [ ] Auto-detect user location using Geolocation API
 - [ ] Toggle between Celsius and Fahrenheit
 - [ ] Dark mode support
-- [ ] Weather background changes based on conditions
 
 ---
 
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin-url](https://linkedin.com/in/your-profile)
+- GitHub: [@your-username](https://github.com/Shravan2420)
+- LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/shravanshinde10)
 - Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
