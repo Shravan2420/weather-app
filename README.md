@@ -2,17 +2,15 @@
 
 A clean, responsive weather web application that provides real-time weather information for any city around the world.
 
-🔗 **Live Demo:** [Click here to view](https://your-username.github.io/weather-app)
+🔗 **Live Demo:** [Click here to view](https://shravan2420.github.io/weather-app/)
 
 ---
 
 ## 📸 Screenshots
 
-> *(Add your app screenshots here after uploading to GitHub)*
-
 | Home Screen | Search Result |
 |-------------|---------------|
-| ![Home](screenshots/home.png) | ![Result](screenshots/result.png) |
+| ![Home]() | ![Result](screenshots/result.png) |
 
 ---
 
